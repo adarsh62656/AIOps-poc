@@ -1,0 +1,3 @@
+fastapi
+uvicorn[standard]
+torch   # or use cpu/cuda specific wheel or base image
